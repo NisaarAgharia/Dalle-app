@@ -41,7 +41,7 @@ function App() {
         </>
       ) : (
         <>
-          <h2>Generate an Image using Open AI API</h2>
+          <h2>Enter the Design Ideas</h2>
 
           <textarea
             className="app-input"
